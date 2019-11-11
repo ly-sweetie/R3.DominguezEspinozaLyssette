@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\bin\Debug\R3.Divisas.exe.config
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\bin\Debug\R3.Divisas.exe
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\bin\Debug\R3.Divisas.pdb
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\obj\Debug\R3.Divisas.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\obj\Debug\R3.Divisas.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\obj\Debug\R3.Divisas.exe
+C:\Users\lyss_\source\repos\R3.Divisas\R3.Divisas\obj\Debug\R3.Divisas.pdb
